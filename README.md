@@ -2,10 +2,11 @@
 All my Projects
 
 Three projects have been added till now.
-1. 2D Snake Game on vscode
-2. Bank data system on vscode
-3. A coursework project on OS Scheduling Algorithm
-4. House Price Prediction (frontend+ model + backend)
+1. Myntra Clone 
+2. 2D Snake Game on vscode
+3. Bank data system on vscode
+4. A coursework project on OS Scheduling Algorithm
+5. House Price Prediction (frontend+ model + backend)
 
 
 
