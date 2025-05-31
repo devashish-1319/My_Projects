@@ -8,6 +8,7 @@ Three projects have been added till now.
 4. A coursework project on OS Scheduling Algorithm
 5. House Price Prediction (frontend+ model + backend)
 6. Sports_Person_Image_Prediction
+7. Heart_Disease Classififcation
 
 
 
